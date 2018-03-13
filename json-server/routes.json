@@ -1,0 +1,4 @@
+{
+  "/leaderboards/:year/:group": "/leaderboard?year=:year&group=:group",
+  "/workouts/:year/:id": "/workouts/:year/:id"
+}
